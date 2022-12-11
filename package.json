@@ -1,0 +1,7 @@
+{
+  "name": "alexis-klisch-styles",
+  "version": "1.0.0",
+  "main": "src/styles.scss",
+  "author": "Alexis Klisch <work@alexisklisch.com>",
+  "license": "MIT"
+}
