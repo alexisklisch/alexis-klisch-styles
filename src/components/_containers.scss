@@ -1,0 +1,16 @@
+@mixin container($margin) {
+  max-width: calc(100% - $margin);
+  margin: 0 auto;
+}
+
+.ct-1 {
+  @include container(30px)
+}
+
+.ct-2 {
+  @include container(60px)
+}
+
+.ct-3 {
+  @include container(85px)
+}

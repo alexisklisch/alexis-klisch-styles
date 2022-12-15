@@ -1,0 +1,24 @@
+// Primaries
+$dark: #020419;
+$green: #047C75;
+$gold: #D39126;
+$yellow: #F8B133;
+$white: #eeeeee;
+$grey: #E5E5F5;
+
+// Secundaries
+$dark-1: mix($dark, $white, 65%);
+$dark-2: mix($dark, $white, 43%);
+$dark-3: mix($dark, $white, 22%);
+
+$green-1: mix($green, $white, 65%);
+$green-2: mix($green, $white, 43%);
+$green-3: mix($green, $white, 22%);
+
+$gold-1: mix($gold, $white, 65%);
+$gold-2: mix($gold, $white, 43%);
+$gold-3: mix($gold, $white, 22%);
+
+$yellow-1: mix($yellow, $white, 65%);
+$yellow-2: mix($yellow, $white, 43%);
+$yellow-3: mix($yellow, $white, 22%);
